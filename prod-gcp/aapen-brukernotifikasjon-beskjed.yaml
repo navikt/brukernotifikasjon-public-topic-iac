@@ -76,3 +76,6 @@ spec:
     - team: helsearbeidsgiver
       application: fritakagp
       access: write
+    - team: min-side
+      application: tms-kafka-manager
+      access: read
