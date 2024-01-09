@@ -118,4 +118,6 @@ spec:
     - team: bidrag
       application: bidrag-reisekostnad-api
       access: write
-
+    - team: tilleggsstonader
+      application: tilleggsstonader-soknad-api
+      access: write
