@@ -55,9 +55,6 @@ spec:
     - team: pto
       application: veilarbdialog
       access: write
-    - team: teamforeldrepenger
-      application: fpoversikt
-      access: write
     - team: farskapsportal
       application: farskapsportal-api
       access: write

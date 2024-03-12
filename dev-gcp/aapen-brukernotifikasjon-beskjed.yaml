@@ -64,9 +64,6 @@ spec:
     - team: teamnks
       application: sf-brukernotifikasjon
       access: write
-    - team: teamforeldrepenger
-      application: fpoversikt
-      access: write
     - team: farskapsportal
       application: farskapsportal-api
       access: write

@@ -43,9 +43,6 @@ spec:
     - team: teamsykmelding
       application: syfosmvarsel
       access: write
-    - team: teamforeldrepenger
-      application: fpoversikt
-      access: write
     - team: farskapsportal
       application: farskapsportal-api
       access: write
