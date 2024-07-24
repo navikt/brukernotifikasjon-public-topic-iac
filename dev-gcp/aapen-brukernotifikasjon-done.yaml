@@ -103,3 +103,6 @@ spec:
     - team: teamsykmelding
       application: sykmeldinger-backend-kafka
       access: write
+    - team: team-tiltak
+      application: tiltak-notifikasjon
+      access: write

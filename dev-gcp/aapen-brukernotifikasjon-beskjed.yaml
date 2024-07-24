@@ -118,4 +118,6 @@ spec:
     - team: bidrag
       application: bidrag-reisekostnad-api
       access: write
-
+    - team: team-tiltak
+      application: tiltak-notifikasjon
+      access: write
