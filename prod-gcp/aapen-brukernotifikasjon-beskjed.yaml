@@ -91,6 +91,9 @@ spec:
     - team: min-side
       application: tms-kafka-manager
       access: read
+    - team: min-side
+      application: tms-kafka-dashboard
+      access: read
     - team: team-researchops
       application: innbyggerpanelet-backend
       access: write
