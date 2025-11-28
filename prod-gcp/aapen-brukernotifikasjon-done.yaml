@@ -22,3 +22,6 @@ spec:
     - team: min-side
       application: dittnav-brukernotifikasjonbestiller
       access: read   # read, write, readwrite
+    - team: teamdokumenthandtering
+      application: dokdistdittnav
+      access: write
