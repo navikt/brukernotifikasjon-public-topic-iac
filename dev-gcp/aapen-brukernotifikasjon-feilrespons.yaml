@@ -9,7 +9,7 @@ metadata:
     dcat.data.nav.no/title: "Public topic for Dittnav sine feilrepons-eventer"
     dcat.data.nav.no/description: "Produsenter får tilbakemelding etter veil ved sending av andre eventer"
     dcat.data.nav.no/keyword: "brukernotifikasjon"
-    kafka.nais.io/removeDataWhenResourceIsDeleted: true
+    kafka.nais.io/removeDataWhenResourceIsDeleted: "true"
 spec:
   pool: nav-dev
   config:
